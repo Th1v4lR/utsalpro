@@ -1,4 +1,4 @@
-public class variabel{
+public class Main{
     public static void main(String[] args){
         String salam = "Assalamualaikum";
         String nama = "Thival Rayyani";
